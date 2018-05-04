@@ -1,0 +1,16 @@
+# README pro OldCompCz
+
+## Proč OldCompCz na GitHubu?
+ 
+Cílem projektu je:
+
+1) Hostování projektů, které představují dědictví minulosti, u kterých není znám původní autor, nebo autor už není aktivní.
+2) Hostování aktivních projektů, které mají vztah k historickým počítačům a u nichž vlastník usoudí, že je vhodné je hostovat na "neutrální půdě".
+
+## Jaká jsou pravidla?
+
+* Členem OldCompCz na GitHubu se může stát každý, kdo projeví o členství zájem.
+* Každý člen může založit repozitář, kterého se automaticky stává vlastníkem a správcem.
+* Hostované projekty by měly mít úzký vztah k tématu old comp.
+
+Nápady a připomínky jsou vítány...
