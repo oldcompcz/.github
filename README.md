@@ -13,4 +13,12 @@ Cílem projektu je:
 * Každý člen může založit repozitář, kterého se automaticky stává vlastníkem a správcem.
 * Hostované projekty by měly mít úzký vztah k tématu old comp.
 
+## Nemáte s GITem zkušenosti?
+
+Tady je pro vás rychlý úvod.
+
+* [Jak si nainstalovat GIT](docs/HowToInstallGIT.md)
+* [Jak používat GIT](docs/HowToUseGIT.md)
+* [Jak publikovat GIT repozitář na GitHubu](docs/HowToPublishOnGitHub.md)
+
 Nápady a připomínky jsou vítány...
