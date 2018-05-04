@@ -36,7 +36,7 @@ zvolte `Git Bash Here`. Otevře se vám příkazová řádka bashe.
 git init
 ```
 
-Pokud vše proběhlo správně, tak byste měli v adresári projektu vidět skrytý 
+Pokud vše proběhlo správně, tak byste měli v adresáři projektu vidět skrytý 
 adresář .git. Pro kontrolu stavu v jakém se repozitář nachází napište:
 
 ```
@@ -120,7 +120,10 @@ posloupností příkazů `git add .` a `git commit -m "commit message"`
 
 ## Jak dál
 
-Nyní jsme zvládli nejzákladnější operace v GITu. Pro další studium si můžete
-stáhnout český překlad vynikající knihy Pro GIT.   
+Nyní jsme zvládli nejzákladnější operace pro práci s GITem. S těmito příkazy si
+pravděpodobně vystačíte pro váš projekt, který můžete 
+[publikovat na GitHubu](HowToPublishOnGitHub.md).   
+  
+Pro další studium si můžete stáhnout český překlad vynikající knihy Pro GIT.   
   
 https://knihy.nic.cz/files/edice/pro_git.pdf
