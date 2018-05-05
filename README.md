@@ -9,7 +9,7 @@ Cílem projektu je:
 
 ## Jaká jsou pravidla?
 
-* Členem OldCompCz na GitHubu se může stát každý, kdo projeví o členství zájem.
+* Členem OldCompCz na GitHubu se může stát každý, kdo projeví o členství zájem. Požádat o členství můžete například formou založení issue v tomto projektu.
 * Každý člen může založit repozitář, kterého se automaticky stává vlastníkem a správcem.
 * Hostované projekty by měly mít úzký vztah k tématu old comp.
 
