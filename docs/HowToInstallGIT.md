@@ -56,3 +56,8 @@ git config --global http.proxy http://proxyuser:proxypwd@10.0.127.41:8888
 ```
 git config --list
 ```
+
+## Jak dál
+
+Nyní máme GIT nainstalovaný a připravený, abychom s ním mohli pracovat. 
+Můžete pokračovat návodem [Jak používat GIT](HowToUseGIT.md).
