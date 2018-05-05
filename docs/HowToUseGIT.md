@@ -121,9 +121,9 @@ posloupností příkazů `git add .` a `git commit -m "commit message"`
 ## Jak dál
 
 Nyní jsme zvládli nejzákladnější operace pro práci s GITem. S těmito příkazy si
-pravděpodobně vystačíte pro váš projekt, který můžete 
-[publikovat na GitHubu](HowToPublishOnGitHub.md).   
+pravděpodobně nějakou chvilku vystačíte. Pro další studium si můžete stáhnout 
+český překlad vynikající knihy Pro GIT.  
   
-Pro další studium si můžete stáhnout český překlad vynikající knihy Pro GIT.   
-  
-https://knihy.nic.cz/files/edice/pro_git.pdf
+https://knihy.nic.cz/files/edice/pro_git.pdf  
+
+Váš projekt, nyní můžete [publikovat na GitHubu](HowToPublishOnGitHub.md).
