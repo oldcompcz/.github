@@ -36,7 +36,7 @@ uživatele.
 Nyní máme účet na github.com a předpokládejme, že na svém počítači máme projekt
 TestProject, který chceme zveřejnit na GitHubu.  
 
-* Na stránce HitHubu vpravo nahoře klikneme na ikonu + a zvolíme 
+* Na stránce HitHubu vpravo nahoře klikneme na ikonu `+` a zvolíme 
 `New repository`
 * Zvolíme název "TestProject" a popis. Repozitář zvolíme veřejný a potvrdíme.
 * Repozitář je založený a GitHub nám napovídá jak můžeme pokračovat.
@@ -44,7 +44,7 @@ TestProject, který chceme zveřejnit na GitHubu.
 Přepneme se do projektu na počítači. Pokud pracujete ve Windows, tak klikněte do
 adresáře pravým tlačítkem myši azvolte `Git Bash Here`. Otevře se vám příkazová 
 řádka bashe. Nastavíme cestu ke vzdálenému repozitáři a pushneme projekt na 
-server.
+server. (myuser v adrese nahraďte svým přihlašovacím jménem)
 
 ```
 git remote add origin https://github.com/myuser/TestProject.git
