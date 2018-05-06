@@ -94,7 +94,7 @@ formátovaný ve značkovacím jazyce Mark Down `README.md`. Přehled značek
 Mark Down naleznete 
 [zde](https://guides.github.com/features/mastering-markdown/).
 Pokud máte rádi emotikony, tak si v Mark Down také 
-[přijdete na své] (https://www.webpagefx.com/tools/emoji-cheat-sheet/).  
+[přijdete na své](https://www.webpagefx.com/tools/emoji-cheat-sheet/).  
 
 Mark Down je na GitHubu preferovaný a lze ho používat všude kde něco píšete. 
 V issues, v komentářích ale třeba i v informacích o sobě ve svém profilu. 
