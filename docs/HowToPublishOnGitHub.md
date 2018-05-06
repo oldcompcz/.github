@@ -16,7 +16,7 @@ Je rovněž možné vytvářet privátní repozitáře, které vidí jen vlastn�
 omezená komunita vývojářů. Privátní repozitáře jsou ale na GitHubu zpoplatněny.  
 
 Pokud je vaším cílem mít uzavřený projekt s omezenou skupinou vývojářů, tak je
-zřejmě výhodnější využít služeb bitbucket.com. Je to server velmi podobný 
+zřejmě výhodnější využít služeb bitbucket.org. Je to server velmi podobný 
 GitHubu, ale umožňuje založení a provoz privátních repozitářů s přístupem do
 pěti vývojářů zdarma.
 
@@ -143,6 +143,42 @@ v sekci releases. Nakonec vše potvrďte talčítkem `Publish release`.
 
 ## Issues
 
+Issues jsou nejdůležitějším komunikačním kanálem mezi správcem projektu a 
+uživatelem a zárověň mezi vývojáři, pokud jich do projektu přispívá více.
+Když někdo ve vašem projektu založí issue, tak to není třeba chápat nijak
+špatně. Právě naopak, je to známka toho, že je váš projekt aktivní a že je
+kolem něj komunita. Issues je možné a vhodné onálepkovat. Například:
+
+* bug
+* enhancement
+* question
+* good first issue
+* help wanted
+
+Pokud chcete přilákat do svého projektu nové vývojáře, tak můžete připravit
+několik lehčích úkolů a onálepkovat je jako `good first issue`. Nebo pokud
+řešíte problém, se kterým si nevíte rady, tak můžete založit issue s nálepkou
+`help wanted`. Pokud vy, nebo někdo jiný začne na některém issue pracovat,
+tak je vhodné issue přiřadit přislušnému uživateli, aby pro ostatní bylo patrné,
+že na tomto issue už někdo pracuje.  
+
+Takže se rozhodně nebojte ve svém projektu, nebo v těch cizích používat issues. 
+Například pokud v tomto návodu objevíte chybu, tak neváhejte založit issue.
+
 ## Pull requesty
 
+Pokud jste správcem projektu, tak máte právo na zápis změn v projektu. Právo
+zápisu můžete a nemusíte povolit dalším konkrétním vývojářům. Pokud nějaký
+vývojář nemá právo zapisovat do projektu, tak má stále možnost poslat vám 
+commit formou pull requestu. Vy si můžete pull request prohlédnout, akceptovat
+ho a zařadit do projektu. Nebo můžete autora pull requestu požádat o nějakou
+doúpravu. Případně můžete pull request s odůvodněním definitivně zamítnout.  
+
+Pokud byste například chtěli tento návod opravit, doplnit, nebo rozšířit, tak
+můžete vytvořit pull request.
+
 ## Jak dál
+
+GitHub je úžasná platforma, která nabízí spoustu dalších nástrojů pro spolupráci
+na projektech. Na další nástroje snadno narazíte sami - rozhraní GitHubu je 
+hodně intuitivní.
