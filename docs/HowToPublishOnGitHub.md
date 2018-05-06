@@ -83,7 +83,63 @@ změny poslat na server.
 git push
 ```   
 
+## Read me
+
+V žádném projektu by něměl chybět read me soubor, kde byste měli napsat základní
+informace o projektu. Minimálně by měl read me obsahovat jak projekt stáhnout, 
+sestavit a spustit, případně také popis použití.  
+
+Read me soubror může být buď klasický textový `README.txt` nebo modernější, 
+formátovaný ve značkovacím jazyce Mark Down `README.md`. Přehled značek 
+Mark Down naleznete 
+[zde](https://guides.github.com/features/mastering-markdown/).
+Pokud máte rádi emotikony, tak si v Mark Down také 
+[přijdete na své] (https://www.webpagefx.com/tools/emoji-cheat-sheet/).  
+
+Mark Down je na GitHubu preferovaný a lze ho používat všude kde něco píšete. 
+V issues, v komentářích ale třeba i v informacích o sobě ve svém profilu. 
+
 ## Vytváření release
+
+V každém projektu jednou za čas dojdete do fáze, kdy si řeknete, že byl učiněn 
+dostatečný pokrok a zároveň je nyní program stabilní a mohli byste tedy nyní
+vydat nový release. Vydat na GitHubu release je jednoduché a používají se
+pro tento účel takzvané tagy.  
+
+Přepneme se do projektu na počítači. Pokud pracujete ve Windows, tak klikněte do
+adresáře pravým tlačítkem myši azvolte `Git Bash Here`. Otevře se vám příkazová 
+řádka bashe. Následujícím příkazem si vylistujeme seznam už existujících tagů v
+našem projektu. Nyní tam zřejmě žádné nebudou.
+
+```
+git tag
+```
+
+Vytvoříme tedy nový tag Release 1.0.0. První číslice je tzv. major číslo, které
+se mění když byla v projektu nějaká velmi zásadní změna. Druhé číslo verze je
+tzv. minor číslo, které budeme měnit, když přibylo několik vlastností. Poslední
+číslo je tzv. revize, nebo číslo buildu. Obvykle se mění když jsme jen 
+zafixovaly nějaké chyby.
+
+```
+git tag "Release 1.0.0"
+```
+
+Zkontrolujeme nyní zda se nám tag v projektu vytvořil `git tag` a můžeme ho 
+vypublikovat na GitHub.
+
+```
+git push origin "Release 1.0.0"
+```
+
+Když se přepnete v prohlížeči do svého projektu na GitHubu, tak v horní liště 
+projektu uvidíte `1 release`. Klikněte na něj a uvidíte svůj tag. Vpravo nahoře
+je tlačítko `Draft a new release`. Když na něj kliknete, tak můžete vytvořit 
+popis release. Vyberte tag, který reprezentuje release a vyplňte release title.
+Následně můžete napsat lbovolné informace o release. Je možné používat Mark 
+Down. Zároveň můžete k release přiložit zkompilované binárky. Ty nebudou 
+součástí repozitáře, ale GitHub je bude nabízet uživetelům ke stažení v sekci
+releases. Nakonec vše potvrďte talčítkem `Publish release`. 
 
 ## Issues
 
