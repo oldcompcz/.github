@@ -4,8 +4,9 @@
  
 Cílem projektu je:
 
-1) Hostování projektů, které představují dědictví minulosti, u kterých není znám původní autor, nebo autor už není aktivní.
-2) Hostování aktivních projektů, které mají vztah k historickým počítačům a u nichž vlastník usoudí, že je vhodné je hostovat na "neutrální půdě".
+1. Propojení vývojářů software pro staré počítače a jejich uživatelů na GitHubu tak, aby o sobě věděli a mohli si pomáhat.
+1. Hostování projektů, které představují dědictví minulosti, u kterých není znám původní autor, nebo autor už není aktivní.
+1. Hostování aktivních projektů, které mají vztah k historickým počítačům a u nichž vlastník usoudí, že je vhodné je hostovat na "neutrální půdě".
 
 ## Jaká jsou pravidla?
 
@@ -21,4 +22,5 @@ Tady je pro vás rychlý úvod.
 * [Jak používat GIT](docs/HowToUseGIT.md)
 * [Jak publikovat GIT repozitář na GitHubu](docs/HowToPublishOnGitHub.md)
 
-Nápady a připomínky jsou vítány...
+## Nápady a připomínky jsou vítány...
+

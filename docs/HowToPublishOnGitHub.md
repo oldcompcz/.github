@@ -181,4 +181,10 @@ můžete vytvořit pull request.
 
 GitHub je úžasná platforma, která nabízí spoustu dalších nástrojů pro spolupráci
 na projektech. Na další nástroje snadno narazíte sami - rozhraní GitHubu je 
-hodně intuitivní.
+hodně intuitivní.  
+
+Pokud jste fandové starých počítačů a programujete pro ně, tak se nezapomeňte
+nechat přidat ke [skupině OldCompCz na Githubu](https://github.com/oldcompcz).
+Cílem je propojení vývojářů a uživatelů software na GitHubu tak, aby o sobě 
+věděli a mohli si pomáhat. Jako žádost o přidání jednoduše vytvořte issue v 
+projektu readme.
