@@ -22,5 +22,9 @@ Tady je pro vás rychlý úvod.
 * [Jak používat GIT](docs/HowToUseGIT.md)
 * [Jak publikovat GIT repozitář na GitHubu](docs/HowToPublishOnGitHub.md)
 
+## Některé zajímavé projekty
+
+* [Seznam projektů na github.com](docs/InterestingProjects.md)
+
 ## Nápady a připomínky jsou vítány...
 
