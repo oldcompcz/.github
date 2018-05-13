@@ -5,7 +5,7 @@
 Cílem projektu je:
 
 1. Propojení vývojářů software pro staré počítače a jejich uživatelů na GitHubu tak, aby o sobě věděli a mohli si pomáhat.
-1. Hostování projektů, které představují dědictví minulosti, u kterých není znám původní autor, nebo autor už není aktivní.
+1. Hostování projektů, které představují dědictví minulosti, u kterých není znám původní autor, nebo autor už není aktivní. Před vytvořením takového projektu je ale vhodné se ujistit, že projekt už někde na GitHubu není, protože není cílem zde vytvářet duplicitní projekty.
 1. Hostování aktivních projektů, které mají vztah k historickým počítačům a u nichž vlastník usoudí, že je vhodné je hostovat na "neutrální půdě".
 
 ## Jaká jsou pravidla?
