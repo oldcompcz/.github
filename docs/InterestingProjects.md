@@ -6,6 +6,7 @@
 | ------------- | ----------------- |
 | [ansi2kr](https://github.com/masakioba/ansi2kr) | Konvertor C souborů z ANSI do K&R |
 | [cc65](https://github.com/cc65/cc65) | C kompilátor pro 6502 |
+| [HiSoft-C](https://github.com/pavel-krivanek/HiSoft-C) | C kompilátor pro ZX Spectrum |
 | [pc fand](https://github.com/alisoss/pcfand) | PC FAND je původní české prostředí pro vývoj databázových aplikací v prostředí DOS z dílny firmy ALIS Česká Lípa. |
 | [sjasmplus](https://github.com/z00m128/sjasmplus) | Command-line Z80 kompilátor|
 | [z88dk](https://github.com/z88dk/z88dk) | C kompilátor pro Z80 |
