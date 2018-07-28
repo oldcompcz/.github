@@ -16,6 +16,10 @@
 | Project name  | Short description |
 | ------------- | ----------------- |
 | [8086tiny](https://github.com/adriancable/8086tiny) | Tiny IBM PC emulator |
+| [BOB-85](https://github.com/omikron88/bob-85) | Java emulátor počítače BOB-85 |
+| [FK-1](https://github.com/omikron88/fk1) | Java emulátor počítače FK-1 |
+| [IQ-151](https://github.com/omikron88/iq-151) | Java emulátor počítače IQ-151 |
+| [jOndra](https://github.com/omikron88/jondra) | Java emulátor počítače Ondra |
 | [jspeccy](https://github.com/jsanchezv/JSpeccy) | Java emulátor ZX Spectra |
 | [jsspeccy2](https://github.com/gasman/jsspeccy2) | JavaScript emulátor ZX Spectra |
 | [pcjs](https://github.com/jeffpar/pcjs) | JavaScript IBM PC Emulator |
