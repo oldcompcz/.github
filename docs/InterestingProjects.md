@@ -8,7 +8,8 @@
 | [cc65](https://github.com/cc65/cc65) | C kompilátor pro 6502 |
 | [HiSoft-C](https://github.com/pavel-krivanek/HiSoft-C) | C kompilátor pro ZX Spectrum |
 | [pc fand](https://github.com/alisoss/pcfand) | PC FAND je původní české prostředí pro vývoj databázových aplikací v prostředí DOS z dílny firmy ALIS Česká Lípa. |
-| [sjasmplus](https://github.com/z00m128/sjasmplus) | Command-line Z80 kompilátor|
+| [RIDE](https://github.com/tomas-nestorovic/RIDE) | Windows tool to directly manipulate floppy/image contents of various retro-platforms |
+| [sjasmplus](https://github.com/z00m128/sjasmplus) | Command-line Z80 kompilátor |
 | [z88dk](https://github.com/z88dk/z88dk) | C kompilátor pro Z80 |
 
 ## Emulátory
@@ -34,4 +35,5 @@
 
 | Project name  | Short description |
 | ------------- | ----------------- |
-| [adlib](https://github.com/schlae/adlib) | Replika AdLib Sound Card, OPL2, Circa 1990 |
+| [Adlib](https://github.com/schlae/adlib) | Replika AdLib Sound Card, OPL2, Circa 1990 |
+| [Z80 computer](https://github.com/linker3000/Z80-Board) | Z80 computer wirewrapped on perfboard |
