@@ -25,6 +25,7 @@ Tady je pro vás rychlý úvod.
 ## Některé zajímavé projekty
 
 * [Seznam projektů na github.com](docs/InterestingProjects.md)
+* [Seznam her napsaných v z88dk](docs/Z88DK-Games.md)
 
 ## Nápady a připomínky jsou vítány...
 
