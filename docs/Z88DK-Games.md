@@ -1,6 +1,6 @@
-# List of open source games using Z88DK
+# List of open source projects using Z88DK
 
-The aim of this project is collecting open source games (and may be also other interesting software) done using z88dk compiler (https://www.z88dk.org).
+The aim of this project is collecting open source games and also other interesting software done using z88dk compiler (https://www.z88dk.org).
 
 ## Contribution
 
@@ -8,7 +8,7 @@ If you'd like to add a repository to the list, please create an issue, or fork t
     
 Help: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## List of projects
+## List of games
 
 | Project name  | Short description | Platforms supported  |
 | ------------- | ----------------- | -------------------- |
@@ -20,3 +20,8 @@ Help: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdow
 | [Sunday League Football](https://github.com/sbebbers/sunday-league-football) | A football management game | ZX80 |
 | [Tetris](https://github.com/berk76/tetris) | Tetris, Addtris, X-Tris | ZX Spectrum |
 
+
+## List of other projects
+| Project name  | Short description | Platforms supported  |
+| ------------- | ----------------- | -------------------- |
+| [PLATO Term](https://github.com/tschak909/platotermzx) | PLATOTerm for ZX Spectrum and Amstrad CPC |
