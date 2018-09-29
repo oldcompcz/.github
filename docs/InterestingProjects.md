@@ -26,6 +26,12 @@
 | [pcjs](https://github.com/jeffpar/pcjs) | JavaScript IBM PC Emulator |
 | [ZEsarUX](https://github.com/chernandezba/zesarux) | ZX Machines Emulator for Unix, including all the Sinclair computers |
 
+## Operační systémy
+
+| Project name  | Short description |
+| ------------- | ----------------- |
+| [ms-dos](https://github.com/Microsoft/MS-DOS) | MS DOS versions 1.25 and 2.00 |
+
 ## Dokumentace
 
 | Project name  | Short description |
