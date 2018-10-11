@@ -188,3 +188,5 @@ nechat přidat ke [skupině OldCompCz na Githubu](https://github.com/oldcompcz).
 Cílem je propojení vývojářů a uživatelů software na GitHubu tak, aby o sobě 
 věděli a mohli si pomáhat. Jako žádost o přidání jednoduše vytvořte issue v 
 projektu readme.
+
+Můžete pokračovat návodem [Podepisujte své commity](HowSignCommits.md).

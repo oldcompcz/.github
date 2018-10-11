@@ -21,6 +21,7 @@ Tady je pro vás rychlý úvod.
 * [Jak si nainstalovat GIT](docs/HowToInstallGIT.md)
 * [Jak používat GIT](docs/HowToUseGIT.md)
 * [Jak publikovat GIT repozitář na GitHubu](docs/HowToPublishOnGitHub.md)
+* [Podepisujte své commity](docs/HowSignCommits.md)
 
 ## Některé zajímavé projekty
 
