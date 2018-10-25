@@ -47,6 +47,12 @@ git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
 ```
 
+### Nastavení výchozího editoru
+Po instalaci je výchozí editor vim. Pokud vim neznáte, tak si nastevte uživatelsky přívětivější nano.
+```
+git config --global core.editor nano
+```
+
 ### Pokud používáte proxy
 ```
 git config --global http.proxy http://proxyuser:proxypwd@10.0.127.41:8888
@@ -54,7 +60,7 @@ git config --global http.proxy http://proxyuser:proxypwd@10.0.127.41:8888
 
 ### Aktuální nastavení si můžete zkontrolovat následujícím příkazem
 ```
-git config --list
+git config --global --list
 ```
 
 ## Jak dál
