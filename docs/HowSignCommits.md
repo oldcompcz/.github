@@ -37,3 +37,7 @@ Pokud chcete někomu poslat soubor s citlivým obsahem:
 Takto je možné zašifrovat třeba velký soubor a nahrát ho na ulozto.cz. K obsahu souboru se pak dostane jen majitel příslušného privátního klíče.  
 
 Tip: vložte si do podpisu e-mailu fingerprint svého veřejného klíče, aby ho vaši kolegové a známí snadno našli. Fingerprint svého klíče získáte příkazem `gpg --fingerprint <keyid>`
+
+## Jak dál
+ 
+Dále můžete pokračovat návodem [Jak si nastavit protokol SSH](HowToUseSsh.md).

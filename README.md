@@ -22,6 +22,7 @@ Tady je pro vás rychlý úvod.
 * [Jak používat GIT](docs/HowToUseGIT.md)
 * [Jak publikovat GIT repozitář na GitHubu](docs/HowToPublishOnGitHub.md)
 * [Podepisujte své commity](docs/HowSignCommits.md)
+* [Jak si nastavit protokol SSH](docs/HowToUseSsh.md)
 
 ## Některé zajímavé projekty
 
