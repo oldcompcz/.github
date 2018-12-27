@@ -25,6 +25,7 @@
 | [jsspeccy2](https://github.com/gasman/jsspeccy2) | JavaScript emulátor ZX Spectra |
 | [pcjs](https://github.com/jeffpar/pcjs) | JavaScript IBM PC Emulator |
 | [ZEsarUX](https://github.com/chernandezba/zesarux) | ZX Machines Emulator for Unix, including all the Sinclair computers |
+| [zxemul](https://github.com/freemanix/zxemul) | ZX Spectrum 48k emulator for Psion SIBO devices |
 
 ## Operační systémy
 
