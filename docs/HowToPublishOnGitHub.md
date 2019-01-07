@@ -13,12 +13,10 @@ releasech a fixech.
 
 GitHub umožňuje zdarma vytváření neomezeného množství veřejných repozitářů. 
 Je rovněž možné vytvářet privátní repozitáře, které vidí jen vlastník a případně
-omezená komunita vývojářů. Privátní repozitáře jsou ale na GitHubu zpoplatněny.  
+omezená komunita vývojářů. Privátní repozitáře s komunitou max. do 3 vývojářů 
+jsou na GitHubu zdarma.  
 
-Pokud je vaším cílem mít uzavřený projekt s omezenou skupinou vývojářů, tak je
-zřejmě výhodnější využít služeb bitbucket.org. Je to server velmi podobný 
-GitHubu, ale umožňuje založení a provoz privátních repozitářů s přístupem do
-pěti vývojářů zdarma.
+Alternativy ke GitHubu jsou bitbucket.org nebo gitlab.com.
 
 ## Založení účtu na github.com
 
