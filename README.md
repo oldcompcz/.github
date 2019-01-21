@@ -24,6 +24,8 @@ Tady je pro vás rychlý úvod.
 * [Podepisujte své commity](docs/HowSignCommits.md)
 * [Jak si nastavit protokol SSH](docs/HowToUseSsh.md)
 
+Dále se můžete zdokonalovat na [GitHub Learning Lab](https://lab.github.com), kde najdete několik zajímavých online kurzů.
+
 ## Některé zajímavé projekty
 
 * [Seznam projektů na github.com](docs/InterestingProjects.md)

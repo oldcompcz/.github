@@ -18,6 +18,7 @@
 | ------------- | ----------------- |
 | [8086tiny](https://github.com/adriancable/8086tiny) | Tiny IBM PC emulator |
 | [BOB-85](https://github.com/omikron88/bob-85) | Java emulátor počítače BOB-85 |
+| [Darkstar](https://github.com/livingcomputermuseum/Darkstar) | A Xerox Star 8010 Emulator |
 | [FK-1](https://github.com/omikron88/fk1) | Java emulátor počítače FK-1 |
 | [IQ-151](https://github.com/omikron88/iq-151) | Java emulátor počítače IQ-151 |
 | [jOndra](https://github.com/omikron88/jondra) | Java emulátor počítače Ondra |
