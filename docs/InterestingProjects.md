@@ -26,6 +26,7 @@
 | [jsspeccy2](https://github.com/gasman/jsspeccy2) | JavaScript emulátor ZX Spectra |
 | [pcjs](https://github.com/jeffpar/pcjs) | JavaScript IBM PC Emulator |
 | [pdp11](https://pavel-krivanek.github.io/pdp11) | ASR-33 terminal and PDP-11 emulator. Type unix<enter>. Dont forget try ed editor. There are some games in /usr/games (use chdir for directory change). |
+| [Windows95](https://github.com/felixrieseberg/windows95) | Windows 95 in Electron. Runs on macOS, Linux, and Windows. |
 | [ZEsarUX](https://github.com/chernandezba/zesarux) | ZX Machines Emulator for Unix, including all the Sinclair computers |
 | [zxemul](https://github.com/freemanix/zxemul) | ZX Spectrum 48k emulator for Psion SIBO devices |
 
