@@ -1,7 +1,7 @@
 # Jak používat GIT
 
 Účelem tohoto jednoduchého návodu je ukázat, jak začít používat GIT. Tento návod
-není vyčerpávající. Cílem návodu poskytnout rychlý úvod začátečníkům.
+není vyčerpávající. Cílem návodu je poskytnout rychlý úvod začátečníkům.
 
 ## Práce s repozitářem
 
@@ -63,7 +63,7 @@ oblíbeném editoru soubor `.gitignore` a zkopírujte do něj následující obs
 Nyní když spustíme opět příkaz `git status` (v bash příkazovém řádku stačí 
 nalistovat předchozí příkaz šipkou nahoru), tak vidíme dva červené soubory: 
 main.c a .gitignore. GIT nám říká, že máme tyto 2 nové nebo změněné soubory
-a očekává co snima chceme dělat dál.
+a očekává co s nimi chceme dělat dál.
 
 * Nyní vybereme soubory, které budeme chtít commitnout (dáme je do takzvané 
 stage)
@@ -127,4 +127,4 @@ Mějte na paměti že: "VODU SÍTEM NABÍRÁ, KDO DO KNIH SE NEDÍVÁ".
   
   
 
-Váš projekt, nyní můžete [publikovat na GitHubu](HowToPublishOnGitHub.md).
+Váš projekt nyní můžete [publikovat na GitHubu](HowToPublishOnGitHub.md).

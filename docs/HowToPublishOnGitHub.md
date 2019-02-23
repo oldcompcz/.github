@@ -34,7 +34,7 @@ uživatele.
 Nyní máme účet na github.com a předpokládejme, že na svém počítači máme projekt
 TestProject, který chceme zveřejnit na GitHubu.  
 
-* Na stránce HitHubu vpravo nahoře klikneme na ikonu `+` a zvolíme 
+* Na stránce GitHubu vpravo nahoře klikneme na ikonu `+` a zvolíme 
 `New repository`
 * Zvolíme název "TestProject" a popis. Repozitář zvolíme veřejný a potvrdíme.
 * Repozitář je založený a GitHub nám napovídá jak můžeme pokračovat.
@@ -49,7 +49,7 @@ git remote add origin https://github.com/myuser/TestProject.git
 git push -u origin master
 ```
 
-Nyní máme lokální projek vypublikovaný a propojený se vzdáleným repozitářem na 
+Nyní máme lokální projekt vypublikovaný a propojený se vzdáleným repozitářem na 
 GitHubu.
 
 ### Klonování repozitáře
@@ -83,7 +83,7 @@ git push
 
 ## Read me
 
-V žádném projektu by něměl chybět read me soubor, kde byste měli napsat základní
+V žádném projektu by neměl chybět read me soubor, kde byste měli napsat základní
 informace o projektu. Minimálně by měl read me obsahovat jak projekt stáhnout, 
 sestavit a spustit, případně také popis použití.  
 
@@ -134,15 +134,15 @@ Když se přepnete v prohlížeči do svého projektu na GitHubu, tak v horní l
 projektu uvidíte `1 release`. Klikněte na něj a uvidíte svůj tag. Vpravo nahoře
 je tlačítko `Draft a new release`. Když na něj kliknete, tak můžete vytvořit 
 popis release. Vyberte tag, který reprezentuje release a vyplňte release title.
-Následně můžete napsat lbovolné informace o release. Je možné používat Mark 
+Následně můžete napsat libovolné informace o release. Je možné používat Mark 
 Down formátovací značky. Zároveň můžete k release přiložit zkompilované binárky. 
-Ty nebudou součástí repozitáře, ale GitHub je bude nabízet uživetelům ke stažení 
-v sekci releases. Nakonec vše potvrďte talčítkem `Publish release`. 
+Ty nebudou součástí repozitáře, ale GitHub je bude nabízet uživatelům ke stažení 
+v sekci releases. Nakonec vše potvrďte tlačítkem `Publish release`. 
 
 ## Issues
 
 Issues jsou nejdůležitějším komunikačním kanálem mezi správcem projektu a 
-uživatelem a zárověň mezi vývojáři, pokud jich do projektu přispívá více.
+uživatelem a zároveň mezi vývojáři, pokud jich do projektu přispívá více.
 Když někdo ve vašem projektu založí issue, tak to není třeba chápat nijak
 špatně. Právě naopak, je to známka toho, že je váš projekt aktivní a že je
 kolem něj komunita. Issues je možné a vhodné onálepkovat. Například:

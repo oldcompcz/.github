@@ -48,7 +48,7 @@ git config --global user.email "you@example.com"
 ```
 
 ### Nastavení výchozího editoru
-Po instalaci je výchozí editor vim. Pokud vim neznáte, tak si nastevte uživatelsky přívětivější nano.
+Po instalaci je výchozí editor vim. Pokud vim neznáte, tak si nastavte uživatelsky přívětivější nano.
 ```
 git config --global core.editor nano
 ```
