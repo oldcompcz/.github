@@ -15,6 +15,7 @@ Help: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdow
 | [Bares](https://github.com/baltasarq/bares/) | Text game in Spanish | ZX Spectrum |
 | [Black Star](https://www.usebox.net/jjm/blackstar/) | Space shooter | ZX Spectrum |
 | [Cross Chase](https://github.com/Fabrizio-Caruso/CROSS-CHASE) | Simple playable game that should run on 8 bit computers and consoles | [many...](https://github.com/Fabrizio-Caruso/CROSS-CHASE/blob/master/TARGETS.txt) :astonished: |
+| [GLAZX](https://github.com/EugenyN/GLAZX) | Small open-source game for ZX Spectrum 48/128 in classic arcade style. | ZX Spectrum |
 | [Piskworks](https://github.com/berk76/piskworks) | Gomoku | ZX Spectrum, ZX81, ZX80 |
 | [Shoot](http://shaunbebbington.blogspot.cz/2012/01/shoot.html) | Shooting | ZX81 |
 | [Sunday League Football](https://github.com/sbebbers/sunday-league-football) | A football management game | ZX80 |
@@ -24,4 +25,4 @@ Help: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdow
 ## List of other projects
 | Project name  | Short description | Platforms supported  |
 | ------------- | ----------------- | -------------------- |
-| [PLATO Term](https://github.com/tschak909/platotermzx) | PLATOTerm for ZX Spectrum and Amstrad CPC |
+| [PLATO Term](https://github.com/tschak909/platotermzx) | PLATOTerm for ZX Spectrum and Amstrad CPC | ZX Spectrum, Amstrad CPC |
