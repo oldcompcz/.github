@@ -113,21 +113,21 @@ našem projektu. Nyní tam zřejmě žádné nebudou.
 git tag
 ```
 
-Vytvoříme tedy nový tag Release 1.0.0. První číslice je tzv. major číslo, které
+Vytvoříme tedy nový tag Release-1.0.0. První číslice je tzv. major číslo, které
 se mění, když byla v projektu nějaká velmi zásadní změna. Druhé číslo verze je
 tzv. minor číslo, které budeme měnit, když přibylo několik vlastností. Poslední
 číslo je tzv. revize, nebo číslo buildu. Obvykle se mění když jsme jen 
 zafixovali nějaké chyby.
 
 ```
-git tag "Release 1.0.0"
+git tag "Release-1.0.0"
 ```
 
 Zkontrolujeme nyní zda se nám tag v projektu vytvořil `git tag` a můžeme ho 
 vypublikovat na GitHub.
 
 ```
-git push origin "Release 1.0.0"
+git push origin "Release-1.0.0"
 ```
 
 Když se přepnete v prohlížeči do svého projektu na GitHubu, tak v horní liště 
