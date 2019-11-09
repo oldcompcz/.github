@@ -10,6 +10,7 @@ Cílem tohoto návodu je ukázat, jak můžete své commity podepisovat pomocí 
 1. Vypište si seznam klíčů `gpg --list-keys` a vyexportujte si svůj veřejný klíč do souboru `gpg --armor --export <keyid> > mykey.pub`
 1. Vložte si svůj veřejný klíč do profilu v GitHubu (Settings - SSH and GPG keys)
 1. Nastavte si v gitu na počítači aby automaticky všechny commity podepisoval `git config --global commit.gpgsign true`. Pokud máte více klíčů tak můžete zvolit aby git používal jeden konkrétní `git config --global user.signingkey <keyid>`.
+1. Svoje commity včetně signatur si vylistujete příkazem `git log --show-signature`.
 
 To je celé.
 
