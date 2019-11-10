@@ -20,18 +20,18 @@ Pro zvýšení důvěryhodnosti svého klíče si můžete nechat svůj veřejn�
 
 Pokud tam vyrazíte tak si:
 
-1. předem svůj veřejný klíč nahrajte na pgp server `gpg --keyserver pool.sks-keyservers.net --send-keys <keyid>` (propsání takto exportovaného klíče na všechny servery může nějakou dobu trvat).
+1. předem svůj veřejný klíč nahrajte na pgp server `gpg --send-keys <keyid>` (propsání takto exportovaného klíče na všechny servery může nějakou dobu trvat).
 1. vytiskněte si lístečky se svým veřejným klíčem, které si na párty vyměníte s ostatníma http://openpgp.quelltextlich.at/slip.html
 
 Více o KSP a podepisování klíčů naleznete třeba zde: https://www.linuxdays.cz/2017/key-signing-party/
 
 ## Šifrování souborů pomocí PGP
 
-Nástoj PGP používá pár klíčů - veřejný a privátní. Veřejný klíč můžete nahrát na server, a tím ho zveřejnit pro ostatní `gpg --keyserver pool.sks-keyservers.net --send-keys <keyid>`. Privátní klíč si naopak držíte v bezpečí u sebe a dobře si ho zazálohujete.  
+Nástoj PGP používá pár klíčů - veřejný a privátní. Veřejný klíč můžete nahrát na server, a tím ho zveřejnit pro ostatní `gpg --send-keys <keyid>`. Privátní klíč si naopak držíte v bezpečí u sebe a dobře si ho zazálohujete.  
 
 Pokud chcete někomu poslat soubor s citlivým obsahem:
 
-1. Je třeba mít veřejný klíč příjemce. Buď vám příjemce sdělí fingerprint svého klíče, nebo můžete zkusit vyhledávat podle mailové adresy nebo jména třeba zde http://openpgp.quelltextlich.at/slip.html Jakmile máme keyid nebo fingerprint veřejného klíče příjemce, tak si ho stáhneme k sobě do počítače `gpg --keyserver pool.sks-keyservers.net --recv-keys <keyid>`. 
+1. Je třeba mít veřejný klíč příjemce. Buď vám příjemce sdělí fingerprint svého klíče, nebo můžete zkusit vyhledávat podle mailové adresy nebo jména třeba zde http://openpgp.quelltextlich.at/slip.html Jakmile máme keyid nebo fingerprint veřejného klíče příjemce, tak si ho stáhneme k sobě do počítače `gpg --recv-keys <keyid>`. 
 1. Soubor zašifrujete příkazem `gpg -ear <keyid> <soubor>`, kde místo keyid veřejného klíče můžete použít jen jméno nebo příjmení příjemce uvedené v jeho veřejném klíči. Takto zašifrovaný soubor bude moci dešifrovat jen majitel privátního klíče patřícího do páru s použitým veřejným klíčem.
 1. Příjemce soubor jednoduše dešifruje příkazem `gpg -d sifrovany_soubor > desifrovany_soubor`
 
